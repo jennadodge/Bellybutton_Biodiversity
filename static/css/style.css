@@ -1,0 +1,24 @@
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Merriweather', serif;
+}
+
+p {
+    font-family: 'Merriweather', serif;
+}
+
+.jumbotron {
+    background-color:lightseagreen
+}
+
+/* .panel {
+    background-color:lightseagreen
+} */
+
+.panel-primary {
+    border-color:darkgray
+}
+
+.panel-primary>.panel-heading {
+    background-color:darkgray
+}   
